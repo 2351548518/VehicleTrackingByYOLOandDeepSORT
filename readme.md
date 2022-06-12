@@ -10,7 +10,7 @@ detect预测用
 
 ### 自定义数据集
 
-![image-20220404154308065](C:\Users\23515\OneDrive\TechnologyTree\Yolov5\readme.assets\image-20220404154308065.png)
+![image-20220404154308065](https://raw.githubusercontent.com/2351548518/images/main/20220608/202206121201974.png)
 
 ![image-20220404154331642](https://raw.githubusercontent.com/2351548518/images/main/20220608/202206121157119.png)
 
